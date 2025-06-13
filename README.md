@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hello, I am an equipment reliability engineer learning how to apply data analytics and software development to make machines break a little bit less.
+
+- 🛢️ I am currently developing an oil tracking app
+- 📊 I find everything data analytics pretty groovy
+- 🚀 Currently learning Streamlit
+- 🪟 Windows at the moment unfortunately
 
 <!--
 **Kylewillhide/Kylewillhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
